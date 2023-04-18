@@ -6,3 +6,4 @@ This repository will deploy an application in a Fargate service to prepare your 
 
 Instructions on how to use the code in this repository can be found here: [https://ecsworkshop.com/microservices/frontend/](https://ecsworkshop.com/microservices/frontend/)
 
+test
